@@ -23,5 +23,5 @@ jobs:
         with:
           context: .
           push: false
-          tags: zkhan93/aria2-daemon:latest
+          tags: zkhan93/aria2-webui:latest
           platforms: linux/amd64,linux/arm64,linux/arm/v7
